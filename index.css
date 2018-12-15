@@ -61,7 +61,9 @@
 
 @media screen and (max-width: 600px){
   body{
-    background-color: #4cb5f5;
+    background-image: url("./images/lead-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
   }
 
   #mainPic{
