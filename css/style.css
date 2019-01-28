@@ -8,7 +8,10 @@
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
-
+    .navbar.navbar-expand-sm.bg-dark.navbar-dark.collapse.navbar-collapse.nav-item{
+        color: white;
+        background-color: green;
+    }
  }
 
 /* // Medium devices (tablets, 768px and up) */
